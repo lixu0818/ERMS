@@ -1,0 +1,23 @@
+The following modules in the App directory all contain SQL for insert, update, delele records in the database:
+
+- login.php
+- profile.php
+- add_resource.php
+- add_incident.php
+- search_resource.php
+- search_result.php
+- search_result_deploy.php
+- search_result_repair.php
+- search_result_request.php
+- resource_status.php
+- resource_status_action.php
+- resource_report.php	
+- update_resource.php (bragging feature: modify existing resource)
+- update_resource_2.php (bragging feature: modify existing resource)
+
+
+Files in the sql directory contain SQL for create tables, constraints and insert mock data:
+- create_table.sql
+- insert_mock_data.sql
+- create_audit_table.sql (bragging feature: audit table to track changes)
+- create_trigger.sql (bragging feature: trigger for audit tables)
