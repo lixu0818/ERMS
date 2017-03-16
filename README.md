@@ -1,4 +1,4 @@
-ERMS (Emergency Resource Management System) project for CS6400.
+ERMS (Emergency Resource Management System) project for CS6400 (Database Concepts and Design).
 
 This is a web app built with LAMP stack.
 
